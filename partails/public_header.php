@@ -33,7 +33,7 @@ $_SESSION['page'] = $pageurl;
                             echo "<li>";
                             echo "<a href='login.php'>Login</a>
                         <span>||</span>
-                        <a href='Register.php'>Register</a>";
+                        <a href='register.php'>Register</a>";
                             echo "</li>";
                         }
                         ?>
